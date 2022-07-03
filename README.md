@@ -12,4 +12,4 @@
 
 ## 🔨 Tools & Softwares
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,cloudflare,aws,mongodb,vercel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,cloudflare,aws,mongodb,vercel)](https://skillicons.dev)
