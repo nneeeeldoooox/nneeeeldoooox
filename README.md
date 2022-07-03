@@ -8,8 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,md)](https://skillicons.dev)
 
 ## 🧰 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs)](https://skillicons.dev)
 
 ## 🔨 Tools & Softwares
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,cloudflare,aws,mongodb,github,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,cloudflare,aws,mongodb,vercel,mysql)](https://skillicons.dev)
