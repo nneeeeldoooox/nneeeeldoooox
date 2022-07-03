@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Discord](https://discord.com/users/938588350942707783) & [E-Mail](mailto:contact@neldox.tech)
 
 ## 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)
 
 ## 🧰 Frameworks
 
