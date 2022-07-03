@@ -11,4 +11,4 @@
 
 ## 🔨 Tools & Softwares
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,heroku,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,cloudflare,aws)](https://skillicons.dev)
