@@ -8,4 +8,4 @@
 
 # 💻 Languages
 
-# 🔨 Tools
+# 🔨 Tools & Softwares
