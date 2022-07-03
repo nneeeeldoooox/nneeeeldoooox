@@ -6,6 +6,6 @@
 
 ---
 
-# 💻 Languages
+## 💻 Languages
 
-# 🔨 Tools & Softwares
+## 🔨 Tools & Softwares
