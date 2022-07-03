@@ -1,4 +1,4 @@
-### mathis, canadian user, he/him, junior developer & high school student
+### Hi there! My name is Mathis, and I'm a young junior developer
 
 - 🔭 I’m currently working on [Platforms](https://neldox.tech)
 - 📫 How to reach me: [Discord](https://discord.com/users/938588350942707783) & [E-Mail](mailto:contact@neldox.tech)
