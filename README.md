@@ -6,6 +6,8 @@
 
 ---
 
-## 💻 Languages:
+## 💻 Languages
 
-## 🔨 Tools & Softwares:
+## 🧰 Frameworks
+
+## 🔨 Tools & Softwares
