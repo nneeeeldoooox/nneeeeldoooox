@@ -1,4 +1,4 @@
-### Hi there! My name is Mathis, and I'm a young junior developer (also a high school student). I'm part of several projects, mainly on Discord. Discover them!
+### Hi there! My name is Mathis, and I'm a young junior developer (also a high school student). I'm part of several projects, mainly on Discord.
 
 
 - 🔭 I’m currently working on [Platforms](https://neldox.tech)
