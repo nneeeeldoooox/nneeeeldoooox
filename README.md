@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md)](https://github.com/nneeeeldoooox)
 
 ## 🧰 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs)](https://github.com/nneeeeldoooox)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs)](https://github.com/nneeeeldoooox)
 
 ## 🔨 Tools & Softwares
 
