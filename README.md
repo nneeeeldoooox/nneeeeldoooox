@@ -1,4 +1,6 @@
-### mathis, canadian user, he/him, junior developer & high school student
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi+there!)](https://git.io/typing-svg)
+
+---
 
 
 - 🔭 I’m currently working on [Platforms](https://neldox.tech)
