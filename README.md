@@ -12,3 +12,5 @@
 ### 🔨 Tools & Softwares
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,cloudflare,aws,mongodb,vercel,github)](https://github.com/nneeeeldoooox)
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/938588350942707783?simple=true)
