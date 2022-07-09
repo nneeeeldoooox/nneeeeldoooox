@@ -2,4 +2,4 @@
 ### My name is Mathis (also known as Neldox). I'm a beginner developer, I like building tools and communities on the Internet. I'm open to any contribution and participation!
 ---
 ### 💻 Languages, Frameworks, Tools & Softwares
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,nodejs,vscode,figma,aws,mongodb,vercel,github)](https://github.com/nneeeeldoooox)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,nodejs,vscode,figma,mongodb,cloudflare,vercel,github)](https://github.com/nneeeeldoooox)
